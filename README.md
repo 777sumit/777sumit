@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @777sumit I'm 17 Y/O
-- 👀 I’m interested in ... To learn python, java, Java script, solidity and lot more...
+- 👋 Hi, I’m @777sumit I'm 18 Y/O
+- 👀 I’m interested in ... To learn python, solidity and lot more...
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...any startup or in any team where I can learn 
 - 📫 How to reach me ...I'm on twitter @sumitchp
